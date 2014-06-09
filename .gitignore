@@ -1,0 +1,10 @@
+bin
+gen
+.DS_Store
+Thumbs.db
+.class
+.settings
+.metadata
+.apt_generated
+local.properties
+proguard
